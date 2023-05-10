@@ -1,0 +1,66 @@
+.contenedor{
+    width: 24rem;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(240, 238, 238);
+}
+.verde{
+    background-color:rgb(76, 202, 116);
+    height: 145px;
+}
+#vinetaVerde{
+    background-color:rgb(76, 202, 116);
+    width: 40px;
+    height: 40px;
+    transform: rotate(45deg);
+    margin-left: 50px;
+    margin-top: -20px;
+
+}
+#off{
+    color:rgb(216, 216, 5);
+    font-weight: 700;
+    margin-top: -35px;
+}
+#porcentaje{
+    color: rgb(216, 216, 5);
+    font-size: 90px;
+    font-weight: 700;
+}
+#pTexto{
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: grey;
+}
+.checkTerminos{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.amarrillo{
+    color:  rgb(216, 216, 5);
+    margin-left: -180px;
+    font-weight: 600;
+}
+.azul{
+    background-color:rgb(36, 50, 77);
+    height: 100px;
+}
+.obtener{
+    color: rgb(27, 159, 115);
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+}
+.obtener:hover{
+    text-decoration: underline;
+}
+#codigoDescuento{
+    color:  rgb(216, 216, 5);
+    font-weight: 700;
+    font-size: 20px;
+}
